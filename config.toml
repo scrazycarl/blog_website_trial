@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Shizz Academy"
+theme = "hyde"
+sectionPagesMenu = "main"
+publishDir = "docs"
