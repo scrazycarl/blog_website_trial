@@ -1,4 +1,4 @@
-baseURL = "https://scrazycarl.github.io/blog_website_trial/"
+baseURL = "https://scrazycarl.github.io/blog_website_trial/docs"
 languageCode = "en-us"
 title = "Shizz Academy"
 theme = "hyde"
