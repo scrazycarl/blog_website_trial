@@ -1,6 +1,6 @@
-baseURL = "https://scrazycarl.github.io/blog_website_trial/docs"
+baseURL = "https://scrazycarl.github.io/blog_website_trial/"
 languageCode = "en-us"
 title = "Shizz Academy"
 theme = "hyde"
 sectionPagesMenu = "main"
-#publishDir = "docs"
+publishDir = "scrazycarl.github.io/blog_website_trial/"
