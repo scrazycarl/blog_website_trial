@@ -1,8 +1,11 @@
 ---
 title: "What did I learn from my master thesis--Project management"
-date: 2019-08-12T21:28:13+02:00
-draft: true
-summary: For the past 6 months, I have been working on my master thesis. In this post, I will breifly present how did I tackle the challenge from project management point of view. 
+categories:
+  - Markup
+tags:
+  - blogs
+  - entrepreneurship
+  - designthinking
 type: "blog"
 ---
 
