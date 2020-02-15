@@ -1,6 +1,6 @@
 baseURL = "https://scrazycarl.github.io/blog_website_trial/"
 languageCode = "en-us"
 title = "Shizz Academy"
-theme = "hyde"
+theme = "tale"
 sectionPagesMenu = "main"
 publishDir = ""

@@ -1,3 +1,6 @@
 [submodule "hugo-resume"]
 	path = hugo-resume
 	url = https://github.com/eddiewebb/hugo-resume.git
+[submodule "themes/tale"]
+	path = themes/tale
+	url = https://github.com/EmielH/tale-hugo.git
