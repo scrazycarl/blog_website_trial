@@ -2,6 +2,7 @@
 title: "What I learned from several design thinking workhsop"
 categories:
   - Markup
+description: “Multiple design thinking work experience”
 tags:
   - blogs
   - entrepreneurship

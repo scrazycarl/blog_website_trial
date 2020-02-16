@@ -2,6 +2,7 @@
 title: "What did I learn from my master thesis--Project management"
 categories:
   - Markup
+description: “Master thesis  was a challenging task for 6 months. I set down to write about what I learned from my thesis."
 tags:
   - blogs
   - entrepreneurship
