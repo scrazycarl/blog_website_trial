@@ -2,7 +2,8 @@
 title: "R experience: Semester project "
 categories:
   - Markup
-description: “My semester project using R”
+summary: “My semester project using R”
+date: "2018-08-01"
 tags:
   - blogs
   - entrepreneurship

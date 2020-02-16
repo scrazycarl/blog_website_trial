@@ -1,13 +1,14 @@
 ---
 title: "What I learned from several design thinking workhsop"
-categories:
-  - Markup
-description: “Multiple design thinking work experience”
-tags:
-  - blogs
-  - entrepreneurship
-  - designthinking
-type: "blog"
+# categories:
+#   - Markup
+summary: “Multiple design thinking work experience”
+date: "2019-10-01"
+# tags:
+#   - blogs
+#   - entrepreneurship
+#   - designthinking
+# type: "blog"
 ---
 
 1 ETH Week<br/>

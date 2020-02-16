@@ -2,7 +2,8 @@
 title: "What did I learn from my master thesis--Project management"
 categories:
   - Markup
-description: “Master thesis  was a challenging task for 6 months. I set down to write about what I learned from my thesis."
+summary: “Master thesis  was a challenging task for 6 months. I set down to write about what I learned from my thesis."
+date: "2019-08-01"
 tags:
   - blogs
   - entrepreneurship
@@ -34,7 +35,7 @@ But how do you guarantee this assumption stands? **Experiments**
 
 
 ### Time management:
-![mt_timeplan](/img/mttimeplan.png)
+![mt_timeplan](/images/mttimeplan.png)
 At the beginning of my thesis, I made a time plan like this in excel, indicating the crucial time stamp as well. It's a 28 weeks process. Failure of plan may lead to actual failure of delivery. When I made this plan, I had it in my mind that it would take immense amount of time to write it. So I allocate much time into it. 
 ### How did I practice my presentation
 
