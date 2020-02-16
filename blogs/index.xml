@@ -6,84 +6,63 @@
     <description>Recent content in Blogs on Shizz Academy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://scrazycarl.github.io/blog_website_trial/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Learnings: Working in ETH Entrepreneur Club </title>
-      <link>https://scrazycarl.github.io/blog_website_trial/blogs/eth_ec_incube_learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>盖茨的善心和中国人的心魔</title>
+      <link>https://scrazycarl.github.io/blog_website_trial/blogs/%E7%9B%96%E8%8C%A8%E7%9A%84%E5%96%84%E5%BF%83%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%BF%83%E9%AD%94/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://scrazycarl.github.io/blog_website_trial/blogs/eth_ec_incube_learning/</guid>
-      <description></description>
+      <guid>https://scrazycarl.github.io/blog_website_trial/blogs/%E7%9B%96%E8%8C%A8%E7%9A%84%E5%96%84%E5%BF%83%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%BF%83%E9%AD%94/</guid>
+      <description>周记</description>
     </item>
     
     <item>
-      <title>R experience: Semester project </title>
-      <link>https://scrazycarl.github.io/blog_website_trial/blogs/r_experience_semester_project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Learnings: Working in ETH Entrepreneur Club </title>
+      <link>https://scrazycarl.github.io/blog_website_trial/blogs/eth_ec_incube_learning/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://scrazycarl.github.io/blog_website_trial/blogs/r_experience_semester_project/</guid>
-      <description></description>
+      <guid>https://scrazycarl.github.io/blog_website_trial/blogs/eth_ec_incube_learning/</guid>
+      <description>“I spent great time in ETH Entrepreneur Club. This post is about what I learned from there”</description>
     </item>
     
     <item>
       <title>What I learned from several design thinking workhsop</title>
       <link>https://scrazycarl.github.io/blog_website_trial/blogs/2019-08-02-what-i-learned-from-design-thinking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://scrazycarl.github.io/blog_website_trial/blogs/2019-08-02-what-i-learned-from-design-thinking/</guid>
-      <description>1 ETH Week
-2 InCube Experience
-1) https://incubechallenge.com/2018/11/14/incube-from-inside-how-it-all-started/ 2) https://incubechallenge.com/2018/11/22/incube-2018-from-inside-a-leap-into-the-challenge/ 3) https://incubechallenge.com/2018/12/06/incube-from-inside-part-iii-the-most-challenging-part/ 4) https://incubechallenge.com/2018/12/19/incube-from-inside-part-iv-the-most-challenging-part/ 5) https://incubechallenge.com/2018/12/19/incube-from-inside-part-v-the-finale-and-the-end/</description>
+      <description>“Multiple design thinking work experience”</description>
     </item>
     
     <item>
       <title>What did I learn from my master thesis--Project management</title>
       <link>https://scrazycarl.github.io/blog_website_trial/blogs/first-post-trial_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://scrazycarl.github.io/blog_website_trial/blogs/first-post-trial_1/</guid>
-      <description>When you start working on a thesis at ETH, you receive a document that set up the entire framework of your work. The formal requirement of writing a thesis is defined in the follwing 5 points:
-  Time and project management Practice oral and written presentations Handling of professional literature and engineering reports Evaluating, reasoning and „selling“ of results Communication with supervisors, lecturers and engineers Get to know your own limits (time pressure and uncertainties)   These requirements set a pretty clear goals that I should reach at the end of my thesis.</description>
+      <description>“Master thesis  was a challenging task for 6 months. I set down to write about what I learned from my thesis.&amp;rdquo;</description>
     </item>
     
     <item>
-      <title>盖茨的善心和中国人的心魔</title>
-      <link>https://scrazycarl.github.io/blog_website_trial/blogs/%E7%9B%96%E8%8C%A8%E7%9A%84%E5%96%84%E5%BF%83%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%BF%83%E9%AD%94/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>R experience: Semester project </title>
+      <link>https://scrazycarl.github.io/blog_website_trial/blogs/r_experience_semester_project/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://scrazycarl.github.io/blog_website_trial/blogs/%E7%9B%96%E8%8C%A8%E7%9A%84%E5%96%84%E5%BF%83%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%BF%83%E9%AD%94/</guid>
-      <description>最近一周在全力以赴的复习AML, 当然有空的时候还是会看看书和纪录片。周六下午，正好借着从前一天晚上的宿醉恢复的功夫，看了王丹宏推荐的盖茨的纪录片。
-一个纪录片 作为在公众视野中拥有过不同头衔的人，比尔盖茨还是有很多不为人知的故事。从小时候的天才少年，成长为微软公司的创始人和CEO,盖茨不但和幸运，而且非常努力。虽然贵为世界首富，盖茨面对的问题却越来越难。当一个富有能力和财力的人打算单纯的做好事的时候，才让人发现，原来做一件普度众生的事要经历怎样的挫折和挑战，有时仅仅是运气不好就可以断送很久的能力。但是无论怎么样，他面对困难的态度永远是：在努力一点。不过，就算电影导演在影片末尾说的那样，像比尔盖茨这种不死鸟的故事，大家都都喜欢听。但这个特点是否也恰恰是他最大的弱点呢？到底要在自己心爱的视野里陷多深才可以放弃？每个人的心里都有不同的答案。
-一本书 这个星期在持续读的书是讲谈社系列里的民国。读日本人写的书的好处就是，他们写中国的历史的时候不会有任何民族情节，所以很多问题可以提供一个新的视野和角度。以前只知道辛亥革命的果实是被袁世凯窜取了，但从来不知道他其实多次在两种不同势力之间摇摆， 但是每次都能在政治斗争中胜出，是个让人佩服的冷酷而彻底的现实主义者。从这个角度看，甚至和邓公的性格经历差不多。不读这本书也不知道的是，原来孙文的革命军并没有多少人，而他大部分的时间都在国外筹钱，从东洋南洋，到美国欧洲，他在用共和国的梦想换取钞票。中华民国虽然最后成立了，但是刚刚成型的两院议会制，在军阀土豹子们得干预下摇摇欲坠。最后在各方势力焦灼不请，权利不稳的情况下，现实的袁世凯竟然也动了当皇帝的心思，做了三个月不到的皇帝。他非常需要皇帝这个头衔给他夹持的权威。想想当下，历史真的是何其相似。
-不过，刷新认知最大的知识点，是原来孙文，袁世凯，毛泽东和邓小平他们，所有人都做着独裁的梦。以为太长的历史已经固化了大家的思维，连最西化的孙中山都想着在必要的时候独裁，让所有人自己的号令办大事。可惜，他从来也没有机会去实践。 不论中外，每个位高权重的人都无法摆脱Power posining的诅咒。若要靠着领导人的自觉结束独裁，那是千年以来可遇不可求的事。虽然也不是不可能，华盛顿将军就做了所有开国元勋们的榜样。可惜，谁让中共的学习目标从来都是苏联老大哥呢？
-愿每个独裁者的下场都惨</description>
+      <guid>https://scrazycarl.github.io/blog_website_trial/blogs/r_experience_semester_project/</guid>
+      <description>“My semester project using R”</description>
     </item>
     
     <item>
       <title>自由是一种责任</title>
       <link>https://scrazycarl.github.io/blog_website_trial/blogs/2019-07-05-%E8%87%AA%E7%94%B1%E6%98%AF%E4%B8%80%E7%A7%8D%E8%B4%A3%E4%BB%BB-posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://scrazycarl.github.io/blog_website_trial/blogs/2019-07-05-%E8%87%AA%E7%94%B1%E6%98%AF%E4%B8%80%E7%A7%8D%E8%B4%A3%E4%BB%BB-posts/</guid>
-      <description>石头：
-首先，恭喜你被上海理工大学录取！昨天听到刘老师的这个消息，挺为你开心的。虽然并不是你最想去的中国药科大学，专业可能也不是你想读的，但是上海明显是个平台更大的地方，好好作为肯定能让你有更多成长。
-诚然，没有进入你想读的专业和学校，或许是一种遗憾。但是从一所大学毕业的结果如何，完全是因人而异。以我大学宿舍为例，我们宿舍两个人出国，一个人回家考了公务员，一个人回家学雅思，也准备出国留学。而我们班里，土木学院下的给排水专业，有三分之一的人出国，考研和保研的有三分之一，剩下的统计上来都是找工作，然而实际情况并没有那么多人找到工作。土木工程专业可能更不好。我毕业那年，2016年土木行业整体招聘形势不好，设计院接不到活也不会招太多人，能工作的都去施工单位了。2017年的就业情况稍微有些回升，据说找到工作的同学更多了，主要还是因为江浙一带在大力推行海绵城市建设，所以会开始招很多给排水专业和土木专业的学生。而土木专业的传统方向：结构方向的就业可能不会很好，也很难回升，一来土木工程专业是个非常传统，高科技含量并不高的专业，非常依赖各种工程项目以及房地产。以后大的工程项目很可能在中西部比较多，比如地铁，桥梁，隧道，铁路，公路等等。房地产在东部应该还会有但不会特别多。二来随着经济转型，土木行业不会在东部地区扮演主要角色。整体而言，土木行业是个夕阳产业。一般在新兴的发展地区，需要大力建设基础设施的地区需求量会比较大。但在任何时代下都有新的发展方向，因为无论如何人总是有居住的需求。最优秀的建筑和建筑师背后，是一个强大的土木工程团队。不过，土木工程师也注定是站在幕后的英雄。
-以土木专业的学习来说，主要是在学力学（材料力学，结构力学等），材料学（混凝土，钢材等），地质学，施工方案编制调度，工程项目管理和财务等。以力学和材料学为主。其他以力学为核心的大概还有机械等专业。
-纯以专业而论，这个时代，能保证找到工作的专业如果有，主要是两个方向，一个是互联网和计算机， 另一个是金融。过去，人们曾经低估了信息技术对所有行业的变革，我上大学那年还一度认为计算机行业的泡沫已经过去。然而，不光是在国内，在全世界任何地方，信息技术都在深刻的改变很多行业，因为他大大简化了人们的计算过程，使得大家的精力可以进一步思考更本质和前沿的东西。而且未来五十年内，被机器人取代的专业会越来越多，首当其冲的是财会类，统计类专业。而金融服务一直都会需要，它和财会还不一样。关于所有你想知道的专业细节，你可以去知乎等论坛上找找别人的讨论以及精华答案，可以有更细节的了解。
-然而，这些其实并不是我真正想告诉你的。上大学最重要的并不在这里。
-高考，是人生第一次对于自由的想象。在你的心愿以及你的分数能够触及的众多目标学校和、众多专业之间根据你自己有限的了解、认知以及一点点搜集信息的能力，在短时间内做出选择。这大概是现实第一次在你面前如此生动的呈现。从今往后，人生的每一步都是在做选择。每一次的选择在根本上取决于你对于这个世界和自我的认知，直接上决定于你对每一个选择评估的能力和你拥有的选项，临门一脚的时候，取决于你自己的心愿和梦想。 大学是你走进社会前的一个完美模拟，每个人从大学里获得的东西都不一样。有些人得到的是对世界和自己新的认知和发现，有些人得到的是生存技能，有些人得到的是毕业证书，还有人拿到的是肄业证书。
-而我觉得，大学是个非常难得的时光，可以让你最充分和最自由的支配自己的时间去做想做的事情。而最重要的是，提升自己对世界和自我的认知以及为自己储备在社会上的生存能力。提升认知的方法是交流。第一等的交流是和经典的交流，第二等是和大师交流，第三等是和比自己优秀的人交流。而从实用性上说正好翻过来。但是不能本末倒置。因为大部分经典的书可以给你呈现最广阔和客观的世界，但却没有具体的操作方法。大师可以给一定的视野的同时可以给你一些策略，但不直接。自己身边优秀的人大概只能告诉你最实用的方法。最根本的东西在本质上决定你的高度，最实用的东西决定你在某个层面的广度，这是一种矛盾。你在拓宽广度的同时，没有办法提升高度，反之亦然。只能根据不同的时间做平衡与抉择。希望你在大学里多读书，多交流，多找那些闪闪发光的灵魂，并和他们多待一会儿。这些灵魂大部分在经典的书里，当然少部分也在现实里。现实里的更亲切，书里的更震撼。最好两个都有。在大学的读书团里，与志同道合的人共享伟大灵魂的沐浴。大学里是最有时间读长篇的经典的。有这些为你打下底子，就可以多一份从容和底气。我自己比较后悔没有多读这些经典的长篇。
-如果你的大学过的丰富，有时你会发现自己的生活比小说还要精彩，各式各样的人物轮番登场，而每一个与你同做过一段路的人一定有你可以学习的长处，或许是一种思想，一种技能或者带人接物的方式。无论在大学里还是在社会里，做成一件事最好的办法是找到并且和最优秀的人一起合作。这是最重要的生存能力。如果你想做个引领者，你还需要团结并带领最优秀的人一起前进。与人相处并且合作，甚至把性格不同的人团结在一起是一种很稀缺的领导力。最高明的领导是润物细无声的，是自然的激发所有人的潜力往一个方向去。在当下浮躁的社会环境里，最优秀的人一定不是社会上和社团里调门最高，嗓门最大的人。但是会表达也是优秀的人一种必不可少的能力。当然并不是所有人都要扮演领导者的角色，因为在任何一种角色扮演里你都会失去自我的某个部分。总而言之，从大学里的宿舍到各种社团，处处都是与人相处，学习与合作的机会，希望你可以好好锻炼，好好观察。而在上海这个大环境，优秀的人更多，思想更多，节奏更快，你能汲取的养分更多。优秀的朋友圈有时可以省去自己很多的探索。
-从出生开始，每个人拥有的资源都是分配不均的，所以到达成功的路径对于每个人都不一样，也没有人可以给你指一条直通彼岸的路。诚然在不同的阶段，会有不一样的贵人指点迷津，但最终完全知道这条路怎么走的，是未来的你自己。如果每个人生来都是有使命的，我觉得人生无非便是在现实而功利的世界里，实现你内心最纯朴的理想。这种理想可以是某个事业，某个目标，某种做人和人生的境界。最重要的是对自己的内心足够的真诚，以及给自己的内心一个足够真诚而努力的交代。如果你能看到别人看不到的东西，但却不把自己的想象带到现实，这是一种对天分和自我的浪费。每个人都有独一无二的天才。而在你把理想投射到现实的世界里，并且开始实践的时候，就是考验你生存技能、意志心性和对自我认知的时候。任何你走过的弯路、失败、挫折和失意都是你提升自己最好的时机以及对一个触手可及的上层目标或者方向的一种暗示，就看你能不能抓住机会相互转化了。
-当你拥有足够的生存技能的时候，不管你学的专业是什么，总能有差异化的成功。有一个房产公司的年度营销冠军本科是学哲学的，有很多搞金融的本科都是学各种工科的，我有很多同学都去卖房子了。所以，长久来看，专业对不一样的人限制不同，看你怎么努力了。
-自由，就是对人生更多的选择。如果你想要有更多的选择，就必须竭尽全力做好自己的每一件事，照顾好自己的每一个方面，并且朝着内心指引的方向在现实里全力以赴的摸爬滚打。 这是一种来自广阔的选择的一种压力，有些人并不能承受这种压力便选择把自己的一部分自由交出去交给别人决定，从而换取一点点轻松和小确幸。比如去当公务员，把自己的命运和体制捆绑，比如去企业，把自己的命运和公司捆绑。如果你不想受太多限制，就一定要非常自律的朝着目标前进，自律才能给你最终的自由。所以，自由实际上是一种无可逃避的责任，只是在不同的时间以不同的形式呈现。当然任何选择都没有错，只要最终不辜负你在这个世界上独一无二的灵魂与内心，与这一趟独一无二的旅程，就好。
-这世界上最公平的就是，每个人每天都只有上帝给的24小时，不多一分，不少一秒。你所有想实现的，必须做的，不得的不做的都在这24小时里。
-按风水学说，北人南向，南人北向都是大吉之兆，愿你当一个海绵，在上海这个多雨多养分的城市，茁壮成长。
-祝好
-PS： 1. 如果你想看伟人是怎么利用时间的，推荐你看《富兰克林自传》和《富兰克林传》 2. 如果你想看一个伟大的灵魂是什么样的，推荐你看《约翰·克里斯朵夫》</description>
+      <description>我写给学弟的一篇文章</description>
     </item>
     
   </channel>
