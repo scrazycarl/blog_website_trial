@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>designthinking on Shizz Academy</title>
-    <link>http://localhost:59809/blog_website_trial/tags/designthinking/</link>
+    <link>http://localhost:60050/blog_website_trial/tags/designthinking/</link>
     <description>Recent content in designthinking on Shizz Academy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:59809/blog_website_trial/tags/designthinking/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:60050/blog_website_trial/tags/designthinking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>盖茨的善心和中国人的心魔</title>
-      <link>http://localhost:59809/blog_website_trial/blogs/%E7%9B%96%E8%8C%A8%E7%9A%84%E5%96%84%E5%BF%83%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%BF%83%E9%AD%94/</link>
+      <link>http://localhost:60050/blog_website_trial/blogs/%E7%9B%96%E8%8C%A8%E7%9A%84%E5%96%84%E5%BF%83%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%BF%83%E9%AD%94/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:59809/blog_website_trial/blogs/%E7%9B%96%E8%8C%A8%E7%9A%84%E5%96%84%E5%BF%83%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%BF%83%E9%AD%94/</guid>
+      <guid>http://localhost:60050/blog_website_trial/blogs/%E7%9B%96%E8%8C%A8%E7%9A%84%E5%96%84%E5%BF%83%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%BF%83%E9%AD%94/</guid>
       <description>周记</description>
     </item>
     
     <item>
       <title>Learnings: Working in ETH Entrepreneur Club </title>
-      <link>http://localhost:59809/blog_website_trial/blogs/eth_ec_incube_learning/</link>
+      <link>http://localhost:60050/blog_website_trial/blogs/eth_ec_incube_learning/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:59809/blog_website_trial/blogs/eth_ec_incube_learning/</guid>
+      <guid>http://localhost:60050/blog_website_trial/blogs/eth_ec_incube_learning/</guid>
       <description>“I spent great time in ETH Entrepreneur Club. This post is about what I learned from there”</description>
     </item>
     
     <item>
       <title>What did I learn from my master thesis--Project management</title>
-      <link>http://localhost:59809/blog_website_trial/blogs/first-post-trial_1/</link>
+      <link>http://localhost:60050/blog_website_trial/blogs/first-post-trial_1/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:59809/blog_website_trial/blogs/first-post-trial_1/</guid>
+      <guid>http://localhost:60050/blog_website_trial/blogs/first-post-trial_1/</guid>
       <description>“Master thesis  was a challenging task for 6 months. I set down to write about what I learned from my thesis.&amp;rdquo;</description>
     </item>
     
     <item>
       <title>R experience: Semester project </title>
-      <link>http://localhost:59809/blog_website_trial/blogs/r_experience_semester_project/</link>
+      <link>http://localhost:60050/blog_website_trial/blogs/r_experience_semester_project/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:59809/blog_website_trial/blogs/r_experience_semester_project/</guid>
+      <guid>http://localhost:60050/blog_website_trial/blogs/r_experience_semester_project/</guid>
       <description>“My semester project using R”</description>
     </item>
     
