@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shizz Academy</title>
-    <link>http://localhost:60050/blog_website_trial/tags/</link>
+    <link>https://scrazycarl.github.io/blog_website_trial/tags/</link>
     <description>Recent content in Tags on Shizz Academy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:60050/blog_website_trial/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://scrazycarl.github.io/blog_website_trial/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blogs</title>
-      <link>http://localhost:60050/blog_website_trial/tags/blogs/</link>
+      <link>https://scrazycarl.github.io/blog_website_trial/tags/blogs/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60050/blog_website_trial/tags/blogs/</guid>
+      <guid>https://scrazycarl.github.io/blog_website_trial/tags/blogs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>designthinking</title>
-      <link>http://localhost:60050/blog_website_trial/tags/designthinking/</link>
+      <link>https://scrazycarl.github.io/blog_website_trial/tags/designthinking/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60050/blog_website_trial/tags/designthinking/</guid>
+      <guid>https://scrazycarl.github.io/blog_website_trial/tags/designthinking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>entrepreneurship</title>
-      <link>http://localhost:60050/blog_website_trial/tags/entrepreneurship/</link>
+      <link>https://scrazycarl.github.io/blog_website_trial/tags/entrepreneurship/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60050/blog_website_trial/tags/entrepreneurship/</guid>
+      <guid>https://scrazycarl.github.io/blog_website_trial/tags/entrepreneurship/</guid>
       <description></description>
     </item>
     
