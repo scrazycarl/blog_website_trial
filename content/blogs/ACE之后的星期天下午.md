@@ -1,7 +1,7 @@
 ---
 title: "ACE之后的星期天下午"
 summary: “Multiple design thinking work experience”
-date: "2019-10-01"
+date: "2020-04-10"
 
 ---
 他是一个不能生活在矛盾中的人， 所有的事情都必须逻辑自洽才行，总有一天这会给他带来很大麻烦。
